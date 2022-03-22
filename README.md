@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saroj  kumar Mohanty
 - 👀 I’m interested in Data Science and Python
 - 🌱 I’m currently learning Data Science Using Python and R
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Python, DataScience, Data Analysis
 - 📫 How to reach me mail-Id-sarojkum8@gmail.com
 
 <!---
